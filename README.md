@@ -13,6 +13,7 @@
   - [Topics](#topics)
     - [Privilege Escalation](#privilege-escalation)
   - [Other OSCP Resources](#other-oscp-resources)
+    - [Books](#books)
 - [License](#license)
 
 ## Resources
@@ -27,7 +28,6 @@
 
 - [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
 - [Luke's Practical hacking tips and tricks](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
-- []()
 
 ### Topics
 
@@ -39,6 +39,11 @@
 ### Other OSCP Resources
 
 - [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
+
+#### Books
+
+- [Penetration Testing: A Hands-on Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+- [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com.au/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
 
 ## License
 
