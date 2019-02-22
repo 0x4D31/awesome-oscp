@@ -8,12 +8,22 @@
 ## Contents
 
 - [Resources](#resources)
+  - [OSCP Reviews and Guides](#oscp-reviews-and-guides)
+  - [Topics](#topics)
+    - [Privilege Escalation](#privilege-escalation)
+  - [Videos](#videos)
 - [License](#license)
 
 ## Resources
 
-- TBA
+### Topics
 
+#### Privilege Escalation
+- [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+
+### Videos
+
+- [Path to OSCP](https://www.youtube.com/playlist?list=PLyPJ3SHNkjIFITR-Lzsc0XSOBS7JUXsOy)
 
 ## License
 
