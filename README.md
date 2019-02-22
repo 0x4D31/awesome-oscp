@@ -9,7 +9,7 @@
 
 - [Resources](#resources)
   - [OSCP Reviews and Guides](#oscp-reviews-and-guides)
-  - [OSCP Cheatsheets and Scripts](#oscp-cheatsheets-and-scripts)
+  - [Cheatsheets and Scripts](#oscp-cheatsheets-and-scripts)
   - [Topics](#topics)
     - [Buffer Overflow](#buffer-overflow)
     - [Privilege Escalation](#privilege-escalation)
@@ -28,10 +28,15 @@
 - [Jan's "Path to OSCP" Videos](https://www.youtube.com/playlist?list=PLyPJ3SHNkjIFITR-Lzsc0XSOBS7JUXsOy)
 - [Offensive Security’s PWB and OSCP - My Experience](http://www.securitysift.com/offsec-pwb-oscp/) (+ some scripts)
 
-### OSCP Cheatsheets and Scripts
+### Cheatsheets and Scripts
 
 - [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
 - [Luke's Practical hacking tips and tricks](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
+- [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+- [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+- [7 Linux Shells Using Built-in Tools](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
+- [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
+- [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
 
 ### Topics
 
@@ -46,14 +51,19 @@
 #### Privilege Escalation
 - [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 - [Common Windows Privilege Escalation Vectors](https://toshellandback.com/2015/11/24/ms-priv-esc/)
+- [Encyclopaedia Of Windows Privilege Escalation by Brett Moore](https://www.youtube.com/watch?v=kMG8IsCohHA)
+- [Level Up! Practical Windows Privilege Escalation by Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-
+- [Linux privilege escalation by Jake Williams](https://www.youtube.com/watch?v=dk2wsyFiosg)
 
 ### Other OSCP Resources
 
 - [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 - [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
+- [Offensive Security Bookmarks](https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/)
+- [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 - [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
+- [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 
 #### Books
 
