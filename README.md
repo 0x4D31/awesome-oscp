@@ -11,6 +11,7 @@
   - [OSCP Reviews and Guides](#oscp-reviews-and-guides)
   - [OSCP Cheatsheets and Scripts](#oscp-cheatsheets-and-scripts)
   - [Topics](#topics)
+    - [Buffer Overflow](#buffer-overflow)
     - [Privilege Escalation](#privilege-escalation)
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
