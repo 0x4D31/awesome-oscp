@@ -9,7 +9,7 @@
 
 - [Resources](#resources)
   - [OSCP Reviews and Guides](#oscp-reviews-and-guides)
-  - [Cheatsheets and Scripts](#oscp-cheatsheets-and-scripts)
+  - [Cheatsheets and Scripts](#cheatsheets-and-scripts)
   - [Topics](#topics)
     - [Buffer Overflow](#buffer-overflow)
     - [Privilege Escalation](#privilege-escalation)
