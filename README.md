@@ -27,16 +27,24 @@
 - [n3ko1's OSCP Guide](http://www.lucas-bader.com/certification/2015/05/27/oscp-offensive-security-certified-professional)
 - [Jan's "Path to OSCP" Videos](https://www.youtube.com/playlist?list=PLyPJ3SHNkjIFITR-Lzsc0XSOBS7JUXsOy)
 - [Offensive Security’s PWB and OSCP - My Experience](http://www.securitysift.com/offsec-pwb-oscp/) (+ some scripts)
+- [OSCP Lab and Exam Review](https://theslickgeek.com/oscp/)
+- [OSCP Preparation Notes](https://www.jpsecnetworks.com/category/oscp/)
+- [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+
 
 ### Cheatsheets and Scripts
 
-- [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
 - [Luke's Practical hacking tips and tricks](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+- [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
 - [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 - [7 Linux Shells Using Built-in Tools](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 - [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
+- [OSCPRepo](https://github.com/rewardone/OSCPRepo)
+- [Go-for-OSCP](https://github.com/pythonmaster41/Go-For-OSCP)
+- [Pentest Compilation](https://github.com/adon90/pentest_compilation)
+- [Collection of OSCP scripts](https://github.com/ihack4falafel/OSCP)
 
 ### Topics
 
@@ -61,7 +69,9 @@
 - [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 - [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
 - [Offensive Security Bookmarks](https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/)
-- [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+- [The how to get the OSCP certification wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst)
+- [OSCP Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
+- [Penetration Testing Study Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes)
 - [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 
