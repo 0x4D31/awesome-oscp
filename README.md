@@ -74,6 +74,7 @@
 - [Penetration Testing Study Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes)
 - [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+- [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 
 #### Books
 
