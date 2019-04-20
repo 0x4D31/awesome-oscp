@@ -30,7 +30,7 @@
 - [OSCP Lab and Exam Review](https://theslickgeek.com/oscp/)
 - [OSCP Preparation Notes](https://www.jpsecnetworks.com/category/oscp/)
 - [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
-
+- [My Fight for OSCP](https://alphacybersecurity.tech/my-fight-for-the-oscp/)
 
 ### Cheatsheets and Scripts
 
