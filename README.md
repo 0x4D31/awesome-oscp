@@ -75,6 +75,7 @@
 - [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
 - [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+- [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 
 #### Books
 
