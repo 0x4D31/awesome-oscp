@@ -38,6 +38,7 @@
 - [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 - [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
 - [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+- [Reverse Shell Generator](https://www.revshells.com/)
 - [7 Linux Shells Using Built-in Tools](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 - [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
