@@ -31,6 +31,7 @@
 - [OSCP Preparation Notes](https://www.jpsecnetworks.com/category/oscp/)
 - [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 - [My Fight for OSCP](https://alphacybersecurity.tech/my-fight-for-the-oscp/)
+- [The Ultimate OSCP Preparation Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)
 
 ### Cheatsheets and Scripts
 
