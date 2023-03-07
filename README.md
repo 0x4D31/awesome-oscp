@@ -32,6 +32,7 @@
 - [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 - [My Fight for OSCP](https://alphacybersecurity.tech/my-fight-for-the-oscp/)
 - [The Ultimate OSCP Preparation Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)
+- [The Journey to Try Harder: TJnull’s Preparation Guide for PEN-200 PWK/OSCP 2.0](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 
 ### Cheatsheets and Scripts
 
