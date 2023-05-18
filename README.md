@@ -13,6 +13,7 @@
   - [Topics](#topics)
     - [Buffer Overflow](#buffer-overflow)
     - [Privilege Escalation](#privilege-escalation)
+    - [Active Directory](#Active-Directory)
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
 - [License](#license)
@@ -67,7 +68,53 @@
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux privilege escalation by Jake Williams](https://www.youtube.com/watch?v=dk2wsyFiosg)
 
-### Other OSCP Resources
+#### Active-Directory
+- [Active Directory Methodology](https://book.hacktricks.xyz/windows/active-directory-methodology)
+- [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+- [PayloadsAllTheThings AD](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
+- [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
+- [PowerView-3.0 tips and tricks](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993#file-powerview-3-0-tricks-ps1)
+
+##### Hands-On Resources.
+- TryHackMe
+  -  [Active Directory Basics](https://tryhackme.com/room/activedirectorybasics) - Easy
+  -  [Post-Exploitation Basics](https://tryhackme.com/room/postexploit) - Easy
+  -  [Vulnnet Roasted](https://tryhackme.com/room/vulnnetroasted) - Easy
+  -  [Attacktive Directory](https://tryhackme.com/room/attacktivedirectory) - Medium
+  -  [raz0r black](https://tryhackme.com/room/raz0rblack) - Medium
+  -  [Enterprise](https://tryhackme.com/room/enterprise) - Medium
+  -  [Vulnnet Active](https://tryhackme.com/room/vulnnetactive) - Medium
+  -  [Zero Logon](https://tryhackme.com/room/zer0logon) - Hard
+  -  [Holo](https://tryhackme.com/room/hololive) - Hard
+  -  [Throwback](https://tryhackme.com/network/throwback) - Easy
+- HackTheBox
+  -  [Forest](https://app.hackthebox.com/machines/212) - Easy
+  -  [Active](https://app.hackthebox.com/machines/148) - Easy
+  -  [Fuse](https://app.hackthebox.com/machines/235) - Medium
+  -  [Cascade](https://app.hackthebox.com/machines/235) - Medium
+  -  [Monteverde](https://app.hackthebox.com/machines/223) - Medium
+  -  [Resolute](https://app.hackthebox.com/machines/220) - Medium
+  -  [Arkham](https://app.hackthebox.com/machines/179) - Medium
+  -  [Mantis](https://app.hackthebox.com/machines/98) - Hard
+  -  [APT](https://app.hackthebox.com/machines/296) - Insane
+  -  [Dante](https://app.hackthebox.com/prolabs/overview/dante) - Beginner
+  -  [Offshore](https://app.hackthebox.com/prolabs/overview/offshore) - Intermediate
+  -  [RastaLabs](https://app.hackthebox.com/prolabs/overview/rastalabs) - Intermediate
+  -  [Cybernetics](https://app.hackthebox.com/prolabs/overview/cybernetics) - Advanced
+  -  [APT Labs](https://app.hackthebox.com/prolabs/overview/aptlabs) - Advanced
+- HackTheBox Academy ( PAID )
+  -  [Introduction to Active Directory](https://academy.hackthebox.com/module/details/74) - Fundamental
+  -  [ActiveDirectory LDAP](https://academy.hackthebox.com/course/preview/active-directory-ldap) - Medium
+  -  [ActiveDirectory Powerview](https://academy.hackthebox.com/module/details/68) - Medium
+  -  [ActiveDirectory BloodHound](https://academy.hackthebox.com/module/details/69) - Medium
+  -  [ActiveDirectory Enumeration & Attacks](https://academy.hackthebox.com/module/details/143) - Medium
+- Proving Grounds
+	- [PG-Practice](https://portal.offsec.com/labs/practice)	( PAID )
+		* Hutch 
+		* Heist
+		* Vault
+
+# Other OSCP Resources
 
 - [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
 - [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
