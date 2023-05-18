@@ -11,11 +11,11 @@
   - [OSCP Reviews and Guides](#oscp-reviews-and-guides)
   - [Cheatsheets and Scripts](#cheatsheets-and-scripts)
   - [Topics](#topics)
-    - [Buffer Overflow](#buffer-overflow)
-    - [Privilege Escalation](#privilege-escalation)
-    - [Active Directory](#Active-Directory)
+  	- [Buffer Overflow](#buffer-overflow)
+  	- [Privilege Escalation](#privilege-escalation)
+  	- [Active Directory](#Active-Directory)
   - [Other OSCP Resources](#other-oscp-resources)
-    - [Books](#books)
+  	- [Books](#books)
 - [License](#license)
 
 ## Resources
