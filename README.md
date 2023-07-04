@@ -33,6 +33,7 @@
 - [My Fight for OSCP](https://alphacybersecurity.tech/my-fight-for-the-oscp/)
 - [The Ultimate OSCP Preparation Guide](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)
 - [The Journey to Try Harder: TJnull’s Preparation Guide for PEN-200 PWK/OSCP 2.0](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+- [Methodology and Mindset for Passing the OSCP](https://medium.com/@security-by-accident/methodology-and-mindset-for-passing-the-oscp-d609592a7dcb)
 
 ### Cheatsheets and Scripts
 
@@ -66,6 +67,13 @@
 - [Level Up! Practical Windows Privilege Escalation by Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux privilege escalation by Jake Williams](https://www.youtube.com/watch?v=dk2wsyFiosg)
+
+### Active Directory
+- [TryHackMe Active Directory Module](https://tryhackme.com/module/hacking-active-directory)
+- [TyHackMe Active Directory Room](https://tryhackme.com/room/attacktivedirectory)
+- [BloodHound Active Directory Enumeration tool](https://github.com/BloodHoundAD/BloodHound)
+- [TryHackMe Throwback Active Directory Practice Network](https://tryhackme.com/network/throwback)
+- [Hack The Box Active Directory Cheatsheet](https://www.hackthebox.com/blog/active-directory-penetration-testing-cheatsheet-and-guide)
 
 ### Other OSCP Resources
 
