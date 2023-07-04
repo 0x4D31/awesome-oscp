@@ -13,6 +13,7 @@
   - [Topics](#topics)
     - [Buffer Overflow](#buffer-overflow)
     - [Privilege Escalation](#privilege-escalation)
+    - [Active Directory](#active-directory)
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
 - [License](#license)
