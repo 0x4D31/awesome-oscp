@@ -132,6 +132,7 @@
 - [Penetration Testing: A Hands-on Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
 - [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com.au/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
 - [RTFM: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+- [RTFM: Red Team Field Manual v2](https://www.amazon.com/RTFM-Red-Team-Field-Manual/dp/1075091837)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (2nd Edition)](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
 
 ## License
